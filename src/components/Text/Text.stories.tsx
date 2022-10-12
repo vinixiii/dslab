@@ -17,7 +17,7 @@ export default {
     },
     asChild: {
       control: {
-        type: 'boolean',
+        type: null,
       },
     },
   },
