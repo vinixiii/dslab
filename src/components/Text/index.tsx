@@ -8,7 +8,7 @@ interface CommonTextProps {
 }
 
 interface TextPropsWithAsChild extends CommonTextProps {
-  asChild: boolean;
+  asChild: true;
   children: ReactNode;
 }
 
